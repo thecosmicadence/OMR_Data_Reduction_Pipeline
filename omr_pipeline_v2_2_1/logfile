@@ -1,0 +1,1474 @@
+
+Mar 13 18:45: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/master_bias.fit, ncombine = 17
+
+Mar 20 16:44: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_16.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/master_bias.fit, ncombine = 16
+
+Mar 20 16:54: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/master_bias.fit, ncombine = 17
+
+Mar 20 16:54: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/08mar2025/master_bias.fit, ncombine = 17
+
+Mar 20 23:17: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/master_bias.fit, ncombine = 10
+
+Mar 21 11:09: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/18jan26_bi_14.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/18Jan2026/master_bias.fit, ncombine = 14
+
+Mar 21 11:39: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/master_bias.fit, ncombine = 10
+
+Mar 21 11:46: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_09.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/master_bias.fit, ncombine = 9
+
+Mar 21 11:47: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_09.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/master_bias.fit, ncombine = 9
+
+Mar 21 11:55: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/master_bias.fit, ncombine = 10
+
+Mar 21 12:12: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/master_bias.fit, ncombine = 10
+
+Mar 21 12:30: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/master_bias.fit, ncombine = 10
+
+Mar 21 12:54: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/master_bias.fit, ncombine = 10
+
+Mar 21 12:58: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/master_bias.fit, ncombine = 7
+
+Mar 21 14:56: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/master_bias.fit, ncombine = 7
+
+Mar 21 15:00: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/17Jan26_bias_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/17Jan2026/master_bias.fit, ncombine = 7
+
+Mar 21 15:45: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/master_bias.fit, ncombine = 16
+
+Mar 21 16:17: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/master_bias.fit, ncombine = 16
+
+Mar 21 19:39: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/master_bias.fit, ncombine = 16
+
+Mar 21 19:49: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/master_bias.fit, ncombine = 16
+
+Mar 21 20:06: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/master_bias.fit, ncombine = 16
+
+Mar 21 20:24: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/master_bias.fit, ncombine = 16
+
+Mar 24 16:05: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/master_bias.fit, ncombine = 16
+
+Mar 24 17:04: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/master_bias.fit, ncombine = 16
+
+Mar 24 20:01: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/master_bias.fit, ncombine = 16
+
+Mar 24 20:08: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/master_bias.fit, ncombine = 16
+
+Mar 24 20:13: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_13.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/master_bias.fit, ncombine = 7
+
+Mar 24 20:28: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_13.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/master_bias.fit, ncombine = 7
+
+Mar 24 20:37: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/09mar25_bi_13.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09mar2025/master_bias.fit, ncombine = 7
+
+Mar 24 20:43: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_18.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_19.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_20.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_21.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_22.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_23.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_25.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/master_bias.fit, ncombine = 19
+
+Mar 24 20:52: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_18.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_19.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_20.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_21.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_22.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_23.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_25.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/master_bias.fit, ncombine = 19
+
+Mar 24 21:08: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_18.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_19.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_20.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_21.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_22.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_23.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_25.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/master_bias.fit, ncombine = 19
+
+Mar 24 21:20: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_18.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_19.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_20.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_21.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_22.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_23.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_25.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/master_bias.fit, ncombine = 19
+
+Mar 25 15:04: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_18.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_19.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_20.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_21.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_22.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_23.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_25.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/master_bias.fit, ncombine = 19
+
+Mar 25 15:13: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_18.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_19.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_20.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_21.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_22.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_23.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_25.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/master_bias.fit, ncombine = 19
+
+Mar 25 15:35: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_18.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_19.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_20.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_21.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_22.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_23.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_25.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/master_bias.fit, ncombine = 19
+
+Mar 25 15:39: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_18.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_19.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_20.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_21.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_22.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_23.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_25.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/master_bias.fit, ncombine = 19
+
+Mar 25 15:40: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_18.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_19.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_20.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_21.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_22.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_23.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_25.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/master_bias.fit, ncombine = 19
+
+Mar 25 17:15: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_18.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_19.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_20.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_21.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_22.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_23.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_25.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/master_bias.fit, ncombine = 19
+
+Mar 25 17:20: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_09.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/master_bias.fit, ncombine = 8
+
+Mar 25 17:29: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_18.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_19.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_20.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_21.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_22.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_23.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/09nov25_bi_25.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/09nov2025/master_bias.fit, ncombine = 19
+
+Mar 25 17:33: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_09.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/master_bias.fit, ncombine = 8
+
+Mar 25 17:43: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_09.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/master_bias.fit, ncombine = 8
+
+Mar 25 17:49: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_18.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/master_bias.fit, ncombine = 18
+
+Mar 25 17:56: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_18.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/master_bias.fit, ncombine = 18
+
+Mar 26 21:40: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_07.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/master_bias.fit, ncombine = 5
+
+Mar 26 21:54: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_07.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/master_bias.fit, ncombine = 5
+
+Mar 26 22:00: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/14mar25_bi_07.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/14mar2025/master_bias.fit, ncombine = 5
+
+Mar 26 22:07: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/master_bias.fit, ncombine = 10
+
+Mar 26 23:04: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/master_bias.fit, ncombine = 10
+
+Mar 26 23:24: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/15mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/15mar2025/master_bias.fit, ncombine = 10
+
+Mar 26 23:31: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_df_12.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/master_bias.fit, ncombine = 10
+
+Mar 26 23:37: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/16mar25_df_12.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/16mar2025/master_bias.fit, ncombine = 10
+
+Mar 27  0:15: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/master_bias.fit, ncombine = 7
+
+Mar 27  0:22: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/17Jan26_bias_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Jan2026/master_bias.fit, ncombine = 7
+
+Mar 31 10:18: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/10Nov25_bi_09.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/10nov2025/master_bias.fit, ncombine = 8
+
+Mar 31 10:23: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_17.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/13mar25_bi_18.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/13mar2025/master_bias.fit, ncombine = 18
+
+Apr 18 11:56: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_13.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/master_bias.fit, ncombine = 9
+
+Apr 18 18:49: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_13.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/master_bias.fit, ncombine = 9
+
+Apr 18 19:02: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_13.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/master_bias.fit, ncombine = 9
+
+Apr 18 19:21: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_13.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/master_bias.fit, ncombine = 9
+
+Apr 18 22:30: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_13.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/master_bias.fit, ncombine = 9
+
+Apr 19 18:25: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_16.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/master_bias.fit, ncombine = 13
+
+Apr 19 18:36: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_16.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/master_bias.fit, ncombine = 13
+
+Apr 19 18:55: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_15.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/18Apr26_bi_16.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/18Apr2026/master_bias.fit, ncombine = 13
+
+Apr 19 22:11: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_07.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/master_bias.fit, ncombine = 7
+
+Apr 19 22:16: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/19apr26_bi_07.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/19Apr2026/master_bias.fit, ncombine = 7
+
+Apr 21 12:14: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/17Apr26_bias_13.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/17Apr2026/master_bias.fit, ncombine = 9
+
+Apr 21 12:21: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_01.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_05.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_10.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_11.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_12.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_13.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_14.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_16.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/08mar25_bi_17.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/08mar2025/master_bias.fit, ncombine = 16
+
+May  2 13:43: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/master_bias.fit, ncombine = 8
+
+May  2 14:07: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/master_bias.fit, ncombine = 8
+
+May  2 14:08: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/master_bias.fit, ncombine = 8
+
+May  2 14:08: IMCOMBINE
+  combine = median, scale = none, zero = none, weight = none
+  reject = minmax, nlow = 0, nhigh = 1
+  blank = 0.
+                Images 
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_02.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_03.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_04.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_06.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_07.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_08.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_09.fit
+  /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/24apr26_bi_10.fit
+
+  Output image = /home/luciferat022/Documents/GitHub/VBO_Data_Reduction_Pipeline/Data/24apr2026/master_bias.fit, ncombine = 8
