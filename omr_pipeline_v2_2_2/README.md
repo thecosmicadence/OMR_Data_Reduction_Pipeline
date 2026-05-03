@@ -1,10 +1,12 @@
 # 🔭 VBO OMR Spectroscopic Data Reduction Pipeline
 
-> **Instrument:** Optomechanical Rotator (OMR) — Vainu Bappu Observatory (VBO)  
-> **Pipeline version:** v2.2  
+> **Instrument:** Low-resolution Optomechanical Research (OMR) Spectrograph — Vainu Bappu Observatory ([VBO](https://www.iiap.res.in/centers/vbo/))  
+> **Pipeline version:** v2.2.2 
 > **Purpose:** Automated low-resolution spectroscopic data reduction — from raw FITS frames to wavelength-calibrated 1-D spectra
 
 ---
+# What's new?
+> Now you don't have to exit the pipeline after every successful reduction of one set of data. Just click on Exit > Yes > Select directory and repeat!
 
 ## Table of Contents
 
@@ -35,8 +37,8 @@ Raw .fit frames  →  [6 phases]  →  *w.ms.fits (wavelength-calibrated spectra
 | # | Phase | What it does | Output files |
 |---|-------|-------------|-------------|
 | **0** | **Startup & IRAF Init** | Launches the GUI and loads IRAF packages | — |
-| **1** | **File Ingestion** | Scans FITS headers, segregates by PI / grating / centwave, auto-clips bad bias frames, builds master bias | `master_bias.fit` |
-| **2** | **Preprocessing** | Trims, bias-subtracts, dark-corrects, flat-fields all frames | `*_tbdf.fit` (objects), `*_tbd.fit` (comps) |
+| **1** | **File Ingestion** | Scans FITS headers, segregates by PI / grating / centwave, auto-clips bad bias frames (3-sigma clipping), builds master bias | `master_bias.fit` |
+| **2** | **Preprocessing** | Trims (`trimsec` chosen based on edge-gradient detection method)), bias-subtracts, dark-corrects, flat-fields all frames | `*_tbdf.fit` (objects), `*_tbd.fit` (comps) |
 | **3** | **Spectral Extraction** | Runs IRAF `apall` interactively on object and comparison lamp frames | `*.ms.fits` |
 | **4** | **Line Identification** | User selects a master lamp; pipeline computes FFT cross-correlation shifts for all comp frames, then runs IRAF `identify` interactively on the master | `PIXSHIFT` in headers, `database/` solution |
 | **5** | **Dispersion Correction** | Assigns `REFSPEC1` to all frames, applies `dispcor`, corrects WCS shifts with `specshift`, plots final lamp comparison | `*w.ms.fits` |
@@ -104,8 +106,8 @@ sudo usermod -aG docker $USER
 ### Step 2 — Get the pipeline
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/VBO_Data_Reduction_Pipeline.git
-cd VBO_Data_Reduction_Pipeline/omr_pipeline_v2_2
+git clone https://github.com/thecosmicadence/OMR_Data_Reduction_Pipeline/omr_pipeline_v2_2_2.git
+cd omr_pipeline_v2_2_2
 ```
 
 ---
@@ -132,13 +134,33 @@ xhost +local:docker
 
 ### Step 5 — Run the pipeline
 
+Because GUI applications and data permissions handle security differently across Linux distributions, choose the command that matches your setup. Replace /path/to/your/fits/data with the full path to your observation folder.
+
+#### For Ubuntu / Debian (using Docker):
 ```bash
 docker run --rm -it \
   -e DISPLAY=$DISPLAY \
-  -v /tmp/.X11-unix:/tmp/.X11-unix \
-  -v /path/to/your/fits/data:/data \
+  -u $(id -u):$(id -g) \
+  -e USER=$USER \
+  -e MPLCONFIGDIR=/tmp/matplotlib \
+  -v /tmp/.X11-unix:/tmp/.X11-unix:ro \
+  -v /path/to/your/fits/data:/data:z \
   --network host \
+  --security-opt label=disable \
   omr-pipeline
+```
+#### For Fedora / RHEL (using Podman):
+```bash
+podman run --rm -it \
+  -e DISPLAY=$DISPLAY \
+  -e USER=$(id -un) \
+  -e MPLCONFIGDIR=/tmp/matplotlib \
+  -v /tmp/.X11-unix:/tmp/.X11-unix:ro \
+  -v /path/to/your/fits/data:/data:z \
+  --network host \
+  --userns=keep-id \
+  --security-opt label=disable \
+  localhost/omr-pipeline
 ```
 
 Replace `/path/to/your/fits/data` with the **full path to your night's observation folder** (e.g. the folder containing your `.fit` files).
@@ -150,17 +172,15 @@ Inside the GUI, navigate to `/data/` when prompted to select the data directory.
 ### Sharing the image (so others skip the build step)
 
 ```bash
-# Push to Docker Hub (one time)
-docker tag omr-pipeline YOUR_DOCKERHUB_USERNAME/omr-pipeline
-docker push YOUR_DOCKERHUB_USERNAME/omr-pipeline
-
-# Anyone else can then run it with just:
+# Anyone else can then run it using the appropriate OS-specific command from Step 5, 
+# simply replacing 'omr-pipeline' or 'localhost/omr-pipeline' with the pulled image:
+thecosmicadence/omr-pipeline-2
 docker run --rm -it \
   -e DISPLAY=$DISPLAY \
   -v /tmp/.X11-unix:/tmp/.X11-unix \
   -v /path/to/data:/data \
   --network host \
-  YOUR_DOCKERHUB_USERNAME/omr-pipeline
+  thecosmicadence/omr-pipeline-2
 ```
 
 ---
@@ -216,23 +236,28 @@ Once the GUI is open, follow these steps in order:
                  dark correction, flat-fielding
    → Interactive: flat response fitting (IRAF window opens)
 
-5. Click "Extract Spectra"
+5. Click "Aperture Extraction"
    → Fully Automatic.
 
 6. Click "Identify"
    → Select the master lamp frame from the dropdown
-   -> Automatically calculates the pixel shift wrt master lamp frame and writes to the header. The 
+   → Automatically calculates the pixel shift wrt master lamp frame and writes to the header. The corresponding lamp spectra to that of the object frame is also updated in the header.
    → Interactive: IRAF identify window opens — mark arc lines. (place the cursor on the line, press 'm' and type the corresponding wavelength value from the line identification chart. Then press enter. Do this for all the lines. Make sure to press 'f' to fit the polynomial after every 5-10 lines are marked. Delete outliers by placing the cursor at the outlier and pressing 'd'. Press 'f' again before going back to marking lines. Press 'q' to quit the identify window)
 
 7. Click "Reference Spectra"
-   → Fully automatic: assigns reference spectra, runs specshift, saves lamp_comparison.png
+   → Fully automatic: assigns reference spectra
 
-7. Click "Dispersion Correct"
-   → Fully automatic: assigns reference spectra, runs dispcor,
-                       applies specshift, saves lamp_comparison.png
+8. Click "Dispersion Correction"
+   → Fully automatic: assigns reference spectra, runs dispcor
 
-8. Click "Inspect" (optional)
-   → Opens IRAF splot for interactive spectrum inspection
+9. Click "Apply Waveshift"
+   → Fully automatic: runs specshift based on the pixel shift noted down in the header
+
+10. Click "Plot Lamp Spectra"
+   → Fully automatic: to ensure that the lamp spectra are line identified properly using the master frame as reference
+
+10. Click "Plot any Spectra" or "Display" (optional)
+   → Opens IRAF splot for interactive spectrum inspection (or) opens any frame on DS9 for manual inspection during any stage of the processing.
 ```
 
 ---
