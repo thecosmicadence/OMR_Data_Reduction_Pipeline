@@ -105,7 +105,7 @@ sudo usermod -aG docker $USER
 
 ```bash
 git clone https://github.com/thecosmicadence/OMR_Data_Reduction_Pipeline/omr_pipeline_v2_2_1.git
-cd omr_pipeline_v2_2
+cd omr_pipeline_v2_2_1
 ```
 
 ---
