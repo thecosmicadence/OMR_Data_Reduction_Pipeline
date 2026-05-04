@@ -256,7 +256,7 @@ Once the GUI is open, follow these steps in order:
 10. Click "Plot Lamp Spectra"
    → Fully automatic: to ensure that the lamp spectra are line identified properly using the master frame as reference
 
-10. Click "Plot any Spectra" or "Display" (optional)
+11. Click "Plot any Spectra" or "Display" (optional)
    → Opens IRAF splot for interactive spectrum inspection (or) opens any frame on DS9 for manual inspection during any stage of the processing.
 ```
 
