@@ -106,8 +106,8 @@ sudo usermod -aG docker $USER
 ### Step 2 — Get the pipeline
 
 ```bash
-git clone https://github.com/thecosmicadence/OMR_Data_Reduction_Pipeline/omr_pipeline_v2_2_2.git
-cd omr_pipeline_v2_2_2
+git clone https://github.com/thecosmicadence/OMR_Data_Reduction_Pipeline.git
+cd OMR_Data_Reduction_Pipeline
 ```
 
 ---
